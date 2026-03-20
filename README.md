@@ -1,1 +1,1 @@
-# natual-language-data-analysis
+# natural-language-data-analysis
