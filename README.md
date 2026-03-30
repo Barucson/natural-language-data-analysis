@@ -29,6 +29,7 @@ The goal of this project is to simulate a simplified version of modern AI-driven
   - Groq API / local models (Ollama)
 
 ## Project Structure
+```bash
 natural-language-data-analysis/
 │
 ├── data/                # Raw and processed datasets
@@ -45,6 +46,7 @@ natural-language-data-analysis/
 ├── tests/               # Unit tests (planned)
 ├── requirements.txt
 └── README.md
+```
 
 ## How It Works
 
