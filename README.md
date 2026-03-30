@@ -1,3 +1,7 @@
+![My Repo Logo](./images/logo.png)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
+![Python](https://img.shields.io/badge/python-3.10+-blue)
+
 # natural-language-data-analysis
 
 A project that enables users to interact with structured datasets using natural language queries. The system interprets user questions and translates them into data analysis operations, returning insights in a human-readable format.
